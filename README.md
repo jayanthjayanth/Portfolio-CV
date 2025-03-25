@@ -16,10 +16,3 @@ Welcome to my personal portfolio website! This is where I showcase my **skills, 
 
 ## 🎨 Live Demo  
 🔗 [View My Portfolio](https://github.com/jayanthjayanth/Portfolio-CV)  
-
-## 📂 Installation & Usage  
-To run this project locally:  
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/your-portfolio.git
