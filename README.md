@@ -15,4 +15,5 @@ Welcome to my personal portfolio website! This is where I showcase my **skills, 
 - **JavaScript**  
 
 ## 🎨 Live Demo  
-🔗 [View My Portfolio](https://github.com/jayanthjayanth/Portfolio-CV)  
+🔗 [View My Portfolio](https://jayanthjayanth.github.io/Portfolio-CV)  
+
